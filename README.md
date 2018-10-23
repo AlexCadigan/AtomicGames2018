@@ -21,5 +21,6 @@ Note: The [Instructions.md](Instructions.md) file contains more information abou
 
 ## Authors
 
+* [Atomic Object](https://atomicobject.com/)
 * [Tanush Samson](https://github.com/Tanflare)
 * [Alex Cadigan](https://github.com/AlexCadigan)
